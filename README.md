@@ -16,4 +16,3 @@ The goal of this trial project is to create a small script to track the visitor 
                 checkUTMS: true,
                 checkURLChange: false
             });
-<!-- ``` -->
