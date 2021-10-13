@@ -10,9 +10,10 @@ The goal of this trial project is to create a small script to track the visitor 
 * Tracking with pixel
 
 #### Usage
-
+```javascript
   var _trackingObj = new CRTracking({
                 checkExpire: true,
                 checkUTMS: true,
                 checkURLChange: false
             });
+<!-- ``` -->
